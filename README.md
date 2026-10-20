@@ -6,4 +6,4 @@ These notes continue the [main course on AI application security](https://github
 
 Start with [P0. Running AI Security at a Company](notes/P0.%20Running%20AI%20Security%20at%20a%20Company.md).
 
-All six notes, P1 to P6, are written. They are design and process, and nothing in them has been run.
+All seven notes, P1 to P7, are written. They are design and process, and nothing in them has been run.
