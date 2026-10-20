@@ -1,6 +1,6 @@
 # Running AI Security at a Company
 
-Security notes on running AI security across a whole company: shared platforms for every AI feature, reviews sized to the risk, measures, incidents and standards.
+Security notes on running AI security across a whole company: shared platforms for every AI feature, reviews sized to the risk, measures, incidents, the limits of prompt injection research, standards, and attackers who use AI.
 
 These notes continue the [main course on AI application security](https://github.com/rajumandala/aisec-notes), [Part S: AI in the SDLC](https://github.com/rajumandala/adlc) and [Part M: Model Supply Chain](https://github.com/rajumandala/ai-supplychain). The same broker now has many AI features from many teams, and the controls from the earlier parts have to work for all of them.
 
